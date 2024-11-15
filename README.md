@@ -120,7 +120,7 @@ A continuación, se presenta un ejemplo práctico que ilustra cómo el accesso a
     }
 }
 ```
-Ver ejemplo en: [Codepen]([https.codepen.io/andresceo](https://codepen.io/andresceo/pen/vYoPaeP))
+Ver ejemplo en: [Codepen](https://codepen.io/andresceo/pen/vYoPaeP)
 
 ## Potencial & Bifurcación de Código
 
