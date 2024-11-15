@@ -2,8 +2,6 @@
 **Dessier expuesto a curado continuo**  
 by @andresceo
 
-Nomenclatura normativa de referencias encargada de racionalizar código de gran volumen, con fines de legibilidad, mantenibilidad & bifurcación con direccionalidad coherente.
-
 ## Introducción
 
 El presente documento aborda las directrices de la **Difusión Migratoria**, un proceso normativo orientado a la estructuración y optimización de grandes volúmenes de código en sistemas complejos. Su principal objetivo es facilitar la legibilidad, la mantenibilidad y la bifurcación coherente de los elementos de código, asegurando que las referencias y componentes sean manipulables de manera eficiente, individual o grupal, dependiendo de las necesidades del proyecto. Esta metodología se sustenta en una nomenclatura específica para lograr una manipulación precisa de los distintos elementos del sistema, garantizando una correcta interacción entre ellos. 
